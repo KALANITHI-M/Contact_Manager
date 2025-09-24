@@ -9,7 +9,7 @@
 
 export const GOOGLE_CONFIG = {
   CLIENT_ID: '581491459372-hcmdpee5e1qg0e4qn9vhrtmmnmp40qqs.apps.googleusercontent.com',
-  API_KEY: 'AIzaSyC5qN9r2-9UZIk6BBvcO_VlzK29cz7K7Ms',
+  API_KEY: 'YOUR-GOOGLE-API-KEY',
   SCOPES: [
     'https://www.googleapis.com/auth/contacts',
     'https://www.googleapis.com/auth/user.emails.read'
